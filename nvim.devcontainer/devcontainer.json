@@ -5,13 +5,13 @@
     "ghcr.io/devcontainers/features/common-utils:2": {
       "installGit": true
     },
-    "ghcr.io/devcontainers/features/neovim:1": {
+    "ghcr.io/duduribeiro/devcontainer-features/neovim:1": {
       "version": "stable"
     },
     "ghcr.io/devcontainers/features/node:1": {
       "version": "lts"
     },
-    "ghcr.io/devcontainers/features/uv:1": {
+    "ghcr.io/va-h/devcontainers-features/uv:1": {
       "version": "latest"
     }
   },
